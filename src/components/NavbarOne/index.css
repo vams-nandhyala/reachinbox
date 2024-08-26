@@ -1,0 +1,116 @@
+.nav_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 56px;
+    height: 100vh;
+    padding: 0px 0px 0px 0px;
+    gap: 0px;
+    border: 0px 1px 0px 0px;
+    opacity: 0px;
+    background: rgba(16, 17, 19, 1);
+    flex-wrap: nowrap;
+    border-right: 1px solid rgba(52, 58, 64, 1)
+    
+    
+    
+}
+.log{
+    width: 26px;
+    height: 24px;
+    gap: 0px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.logo_container{
+    width: Fixed (48px)px;
+    height: Fixed (70px)px;
+    padding: 8px 12px 12px 12px;
+    gap: 0px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.menu_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    width: Fill (48px)px;
+    height: Fixed (645px)px;
+    padding: 16px 8px 16px 8px;
+    gap: 24px;
+    opacity: 0px;
+
+
+}
+.menu_content{
+    width: Hug (28px)px;
+    height: Fixed (546px)px;
+    gap: 32px;
+    opacity: 0px;
+
+}
+.icon_content{
+    width: 24px;
+    height: 24px;
+    top: 2.5px;
+    left: 2px;
+    padding: 0.95px 4.3px 5.05px 4px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    
+
+}
+.menu_list{
+    width: Fill (48px)px;
+    height: Fixed (645px)px;
+    padding: 16px 8px 16px 8px;
+    gap: 24px;
+    opacity: 0px;
+
+}
+.icon{
+    width: 15.7px;
+    height: 18px;
+    top: 0.95px;
+    left: 4px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(174, 174, 174, 1);
+
+
+}
+.user_profile_content{
+    display: flex;
+    justify-content: center;
+    align-content: flex-end;
+    width: Hug (48px)px;
+    height: Hug (56px)px;
+    gap: 10px;
+    opacity: 0px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    padding-bottom: 20px;
+
+}
+.profile{
+    width: 32px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    top: 24px;
+    left: 24px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 20px;
+    background: rgba(43, 159, 27, 1);
+    border: 1px solid rgba(255, 255, 255, 1)
+    
+}

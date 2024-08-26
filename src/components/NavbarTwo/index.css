@@ -1,0 +1,103 @@
+.top_nav_content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    height: 64px;
+    width: 98vw;
+}
+.logo_container{
+    width: 34px;
+    height: 64px;
+}
+.log{
+    width: 200px;
+    height: 30px;
+    padding: 18px 2px 0px 0px;
+    
+    opacity: 0px;
+    
+
+}
+.nav_bar{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 1382px;
+    left: 57px;
+    padding: 21px 13px 0px 21px;
+    background: rgba(31, 31, 31, 1);
+    flex-wrap: nowrap;
+   
+
+
+}
+.card{
+    width: Hug (127px)px;
+    height: Hug (22px)px;
+    gap: 32px;
+    opacity: 0px;
+    padding-left: 50px;
+
+}
+.one_box_text{
+    width: 127px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21.79px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+}
+.theme_btns_container{
+    display: flex;
+    justify-content: space-between;
+    width: 51px;
+    height: 24px;
+    padding: 3px 5px 3px 5px;
+    gap: 7px;
+    border-radius: 80px 80px 80px 80px;
+    border: 1px 0px 0px 0px;
+    margin-right:20px;
+    opacity: 0px;
+    background: var(--Table-BG, rgba(34, 36, 38, 1));
+    border: 1px solid var(--Table-BG-Border, rgba(52, 58, 64, 1))
+    
+}
+.faCircle_btn{
+    width: 16px;
+    height: 16px;
+    background-color: transparent;
+    border-width: 0px;
+    margin-top: 4px;
+    margin-left: 2px;
+    color: var(--Grey-2, rgba(136, 134, 134, 1));
+}
+.cilight_btn{
+    width: 16px;
+    height: 16px;
+    background-color: transparent;
+    border-width: 0px;
+    margin-top: 4px;
+    margin-left: 2px;
+    color: rgba(232, 195, 100, 1);
+    margin-right: 6px;
+
+
+}
+.edge_content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.workspace{
+    background-color: transparent;
+    border-width: 0px;
+}

@@ -1,0 +1,219 @@
+.main_container{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background: linear-gradient(138.97deg, #111214 5.16%, #121212 105.18%);
+    width: Fixed (1,440px)px;
+    height: Hug (759px)px;
+    top: 1890px;
+    left: 371px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+.title_content{
+    display: flex;
+    justify-content: space-around;
+    width: Fill (1,440px)px;
+    height: Fixed (64px)px;
+    padding: 10px 100px 10px 100px;
+    gap: 0px;
+    border: 0px 0px 1px 0px;
+    opacity: 0px;
+    border-bottom: 1px solid rgba(37, 38, 43, 1)
+    
+
+}
+.log_img{
+    width: 156.77px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+}
+.loging_from_content{
+    width: Fill (1,440px)px;
+    height: Fixed (663px)px;
+    padding: 100px 29px 100px 29px;
+    gap: 150px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.login_from{
+    width: Fixed (460px)px;
+    height: Hug (312px)px;
+    padding: 24px 40px 40px 40px;
+    gap: 48px;
+    border-radius: 17px 17px 17px 17px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: rgba(37, 38, 43, 1);
+    
+}
+.loging_heading{
+    width: Fill (380px)px;
+    height: Hug (103px)px;
+    gap: 24px;
+    opacity: 0px;
+
+}
+.create_heading_title{
+    width: 380px;
+    height: 31px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 31px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.google-Content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: Fill (380px)px;
+    height: Hug (48px)px;
+    padding: 8px 16px 8px 16px;
+    gap: 10px;
+    border-radius: 4px 4px 4px 4px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(112, 113, 114, 1)
+}
+.googlelogin_btn{
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    border-width: 0px;
+}
+.google_logo{
+    width: 16px;
+    height: 21px;
+    top: 10px;
+    left: 7.75px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+
+}
+.heading_sign_up{
+    width: 145px;
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26.1px;
+    letter-spacing: -0.30000001192092896px;
+    text-align: center;
+    color: rgba(204, 204, 204, 1);
+
+}
+.create_content{
+    display: flex;
+    flex-direction: column;
+    
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+.create_btn{
+    width: 195pxpx;
+    height:48pxpx;
+    padding: 13px 35px 13px 35px;
+    gap: 10px;
+    border-radius: 4px 4px 4px 4px;
+    opacity: 0px;
+    background: linear-gradient(91.73deg, #4B63DD -2.99%, rgba(5, 36, 191, 0.99) 95.8%);
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21.7px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    align-items: center;
+    text-align: center;
+    border: 1px solid var(--Border-1, rgba(52, 58, 64, 1))
+
+}
+.already_have_account_content{
+    width: Fill (380px)px;
+    height: Hug (25px)px;
+    gap: 13px;
+    opacity: 0px;
+    
+}
+.content{
+    width: Fixed (248px)px;
+    height: Hug (25px)px;
+    gap: 4px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.already_have_account{
+    width: 190px;
+    height: 25px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: center;
+    color: rgba(144, 146, 150, 1);
+
+}
+.Sign_in{
+    width: 50px;
+    height: 25px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: center;
+    color: rgba(193, 194, 197, 1);
+    margin-left: 0px;
+    padding-left: 0px;
+
+}
+.service_content{
+    display: flex;
+    justify-content: center;
+    width: Fill (1,440px)px;
+    height: Fixed (32px)px;
+    padding: 20px 100px 20px 100px;
+    gap: 10px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: rgba(18, 18, 18, 1);
+    border-top: 1px solid rgba(37, 38, 43, 1)
+}
+.servicer_name{
+    width: 220px;
+    height: 19px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18.6px;
+    text-align: left;
+    color: rgba(92, 95, 102, 1);
+
+}
